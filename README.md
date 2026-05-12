@@ -56,3 +56,8 @@ results/
 
 thesis/
   Intrusion_Detection_System_IDS_using_Machine_Learning.pdf
+```
+## Author
+
+Rahmi Serag  
+GitHub: https://github.com/Rahmi-serag
