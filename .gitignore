@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime folders
+LiveFeed/
+LiveFeed_CSV/
+tmp_cfm_input/
+logs/
+data/live_pcap_archive/
+data/live_pcap_failed/
+
+# Large datasets and captures
+*.pcap
+*.pcapng
+*.csv.gz
+data/raw_cicids2017/
+data/processed/
+
+# Model files, optional
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
